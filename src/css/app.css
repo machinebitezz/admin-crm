@@ -1,0 +1,22 @@
+/* TODO: REMOVE DEBUG
+   app global css */
+
+.DEBUG {
+    border: 1px solid red
+}
+
+.float-clear {
+    clear: both;
+}
+
+.c-graph-container {
+    padding: 16px;
+    padding-right: 0;
+    height: calc(100% - 64px);
+}
+
+.c-table-card {
+    border: 1px solid #adadad;
+    padding: 0;
+    height: fit-content;
+  }
